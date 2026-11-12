@@ -7,7 +7,7 @@ This repository contains version 1.2 of the Tic Tac Toe Node.js app, used to bui
 
 ## Structure
 
-- `app/` - Tic Tac Toe application code (v1.2.0), uncompressed
+- `app/` - Tic Tac Toe application code (v1.2), uncompressed
 - `README.md` - this file
 
 
