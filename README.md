@@ -15,4 +15,4 @@ The app runs on port 3000 which is the default: http://localhost:3000
 
 ## Author
 
-Adnan Hussain - Sparta Global DevOps training (tech613)
+Adnan Hussain
