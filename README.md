@@ -11,7 +11,7 @@ This repository contains version 1.2 of the Tic Tac Toe Node.js app, used to bui
 - `README.md` - this file
 
 
-The app runs on port 3000 by default: http://localhost:3000
+The app runs on port 3000 which is the default: http://localhost:3000
 
 ## Author
 
